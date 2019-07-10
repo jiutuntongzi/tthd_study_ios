@@ -1,0 +1,31 @@
+//
+//  LineThemeModel.h
+//  STUDIES
+//
+//  Created by happyi on 2019/5/24.
+//  Copyright © 2019 happyi. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface LineThemeModel : NSObject
+
+/** id */
+@property (nonatomic, strong) NSString *tId;
+/** 标题 */
+@property (nonatomic, strong) NSString *name;
+/** 图片 */
+@property (nonatomic, strong) NSString *img;
+/** 路线集 */
+@property (nonatomic, strong) NSArray *path;
+
+/**
+ model初始化
+ 
+ @param dict 字典
+ @return self
+ */
+-(instancetype)initModelWithDict:(NSDictionary *)dict;
+
+@end
+

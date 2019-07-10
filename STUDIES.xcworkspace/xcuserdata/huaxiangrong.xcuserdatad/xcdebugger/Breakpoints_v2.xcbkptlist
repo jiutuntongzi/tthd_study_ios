@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "STUDIES/Modules/Home(&#x9996;&#x9875;)/ViewControllers/Teacher(&#x5bfc;&#x5e08;)/ViewControllers/TeacherHomePagerViewController.m"
+            timestampString = "581074860.260392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "-hanleListDataWithData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "STUDIES/HttpRequestManager/BANetManager/BANetManager.m"
+            timestampString = "581737707.024696"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "604"
+            endingLineNumber = "604"
+            landmarkName = "+ba_uploadVideoWithEntity:successBlock:failureBlock:progressBlock:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__81+[BANetManager ba_uploadVideoWithEntity:successBlock:failureBlock:progressBlock:]_block_invoke.236"
+                  moduleName = "STUDIES"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huaxiangrong/Desktop/STUDIES/STUDIES/HttpRequestManager/BANetManager/BANetManager.m"
+                  timestampString = "582373309.293242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "605"
+                  endingLineNumber = "605"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__81+[BANetManager ba_uploadVideoWithEntity:successBlock:failureBlock:progressBlock:]_block_invoke_2"
+                  moduleName = "STUDIES"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huaxiangrong/Desktop/STUDIES/STUDIES/HttpRequestManager/BANetManager/BANetManager.m"
+                  timestampString = "582373309.296378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "605"
+                  endingLineNumber = "605"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "STUDIES/Modules/Home(&#x9996;&#x9875;)/ViewControllers/Track(&#x8db3;&#x8ff9;&#x6253;&#x5361;)/ViewControllers/TrackSubmitViewController.m"
+            timestampString = "581760309.604421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "-rightBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
